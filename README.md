@@ -1,4 +1,4 @@
-## Hi there 👋
+<img width="735" height="510" alt="image" src="https://cdn.discordapp.com/attachments/1392463376986144828/1429882465857572956/IMG_20251021_012150.jpg?ex=68f7c151&is=68f66fd1&hm=dcbce33375683e34bda090fc617004cd727a8fe5d6c9ac4bb69894ff071a63c0&" />
 
 <!--
 **B1mjini/B1mjini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
