@@ -1,4 +1,4 @@
-<img width="735" height="510" alt="image" src="https://cdn.discordapp.com/attachments/1392463376986144828/1429882465857572956/IMG_20251021_012150.jpg?ex=68f7c151&is=68f66fd1&hm=dcbce33375683e34bda090fc617004cd727a8fe5d6c9ac4bb69894ff071a63c0&" />
+<img width="735" height="510" alt="image" src="https://cdn.discordapp.com/attachments/1392463376986144828/1430068480882774016/Untitled397_20251021134119.png?ex=68f86e8f&is=68f71d0f&hm=90d8ed25f07bd365eb55291ca2fb0530a200a40bcf758e2cafd0d58a694e661f&" />
 
 <!--
 **B1mjini/B1mjini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
