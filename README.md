@@ -1,5 +1,4 @@
 <img width="735" height="510" alt="image" src="https://cdn.discordapp.com/attachments/1459576161054097702/1506725710465601727/43af0a60a3901aa42399d9d9fe57f041.jpg?ex=6a0f4f2a&is=6a0dfdaa&hm=dda7380c6ea4ad05c2b195751ba3a3da319ac96dbbceb3bd9db52c9cbcb7da0a&"/>
-blub blub <3
 <p align="center">
 𑣲~ <img ⤷ src="https://komarev.com/ghpvc/?username=B1mjini"゛ ˎˊ˗ alt="Viewers~" /> ୭˚. ᵎᵎ
 </p>
