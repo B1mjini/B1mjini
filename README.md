@@ -1,4 +1,4 @@
-<img width="735" height="510" alt="image" src="https://cdn.discordapp.com/attachments/1459576161054097702/1506725710465601727/43af0a60a3901aa42399d9d9fe57f041.jpg?ex=6a0f4f2a&is=6a0dfdaa&hm=dda7380c6ea4ad05c2b195751ba3a3da319ac96dbbceb3bd9db52c9cbcb7da0a&"/>
+<img width="735" height="510" alt="image" src="https://cdn.discordapp.com/attachments/1459576161054097702/1542174406762176634/8ba2841be58e696331726343c6740256.jpg?ex=6a904556&is=6a8ef3d6&hm=9b9484a2bef334e79762d654bb3d73a4d9dd716563a6060659882297c6575c0e&"/>
 <p align="center">
 𑣲~ <img ⤷ src="https://komarev.com/ghpvc/?username=B1mjini"゛ ˎˊ˗ alt="Viewers~" /> ୭˚. ᵎᵎ
 </p>
